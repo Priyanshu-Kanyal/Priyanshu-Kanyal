@@ -69,6 +69,7 @@ OOP • DSA • DBMS • Operating Systems • Computer Networks
 ## 🌐 Connect With Me  
 <p>
   <a href="mailto:kanyalpriyanshu1@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
+   
   <a href="https://www.linkedin.com/in/priyanshu-kanyal-7808a7275"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 </p>
 
