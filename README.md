@@ -1,66 +1,70 @@
-# 👋 Hi, I'm Priyanshu Kanyal  
+# 👋 Hey there, I'm Priyanshu Kanyal 🚀  
 
 🎓 **CSE Undergrad** @ VIT Amaravati (CGPA: 9.17/10)  
-☁️ **AWS Certified Cloud Practitioner** | 🤖 **Oracle GenAI Professional**  
-💻 Full-stack developer passionate about building practical, scalable, and data-driven solutions.  
+☁️ **Cloud Explorer** (AWS Certified) | 🤖 **AI Tinkerer** (Oracle GenAI Pro)  
+💡 Turning ☕ + 💻 into full-stack magic & data-driven stories.  
 
 ---
 
-## 🚀 About Me  
-I enjoy turning ideas into interactive and impactful applications. From **tracking family expenses** with intuitive dashboards to **predicting population trends** using data science, I focus on solutions that combine functionality with simplicity.  
+## ⚡ About Me  
+I code because it’s cheaper than therapy 🧑‍💻.  
+I build apps that solve real problems — from **tracking family expenses** so no one "forgets" their share,  
+to **predicting populations** (yes, I can tell you how crowded your city will be 👀).  
 
-I believe in clean, maintainable code and continuous learning. Outside of coding, I mentor juniors, organize workshops, and contribute to a collaborative tech community.  
-
----
-
-## 🛠️ Skills & Tools  
-- **Languages:** Java, Python, JavaScript  
-- **Frameworks & Tools:** Node.js, Express.js, React.js, Next.js, Tailwind CSS, Prisma  
-- **Databases:** Postgres, MongoDB, SQL  
-- **Developer Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
-- **Core Concepts:** OOP, DSA, REST APIs, Agile, SDLC  
+I’m the person who:  
+- Debugs at 2AM with lo-fi beats 🎶  
+- Believes in clean code > messy shortcuts ✨  
+- Mentors juniors but still Googles “how to center a div” daily 🤷‍♂️  
 
 ---
 
-## 📂 Projects  
+## 🛠️ Tech Arsenal  
+- **Languages:** Java ☕ | Python 🐍 | JavaScript ⚡  
+- **Frameworks & Tools:** Node.js, Express, React, Next.js, Tailwind, Prisma  
+- **Databases:** Postgres 🐘 | MongoDB 🍃 | SQL 📊  
+- **Workflow:** Git/GitHub | Agile | SDLC | “Let’s Google that” methodology 🔍  
+
+---
+
+## 📂 Projects That I Brag About  
 
 <details>
 <summary>💰 Family Expense Tracker</summary>
 
-A full-stack app to manage and visualize income/expenses for 10+ user profiles.  
+> Because money talks… but my app listens.  
 
 - Built with **Next.js + Node.js + Postgres**  
 - Real-time updates using **Prisma ORM**  
-- Category/timeline filtering with dynamic dashboards  
+- Intuitive dashboards with category/timeline filters & Recharts 📈  
 
 </details>
 
 <details>
 <summary>🌍 Population Predictor</summary>
 
-Regression model predicting population growth across 150+ countries.  
+> Predicting the future — no crystal ball required 🔮.  
 
-- Implemented with **Python, Matplotlib, Seaborn**  
-- Visual dashboards for demographic shifts and trends  
+- Regression model for 150+ countries  
+- Visualized using **Matplotlib + Seaborn**  
+- Dashboards showing growth & urbanization trends  
 
 </details>
 
 ---
 
-## 🎯 Extracurriculars  
-- **Technical Team Member, CodeChef VIT-AP Chapter**  
-   - Organized 10+ DSA workshops (30–50 attendees each)  
-   - Mentored 15+ juniors in competitive coding  
-   - Hosted weekly contests to build problem-solving culture  
+## 🎯 Beyond Coding  
+- 🚀 **CodeChef VIT-AP (Tech Team)** — organized 10+ DSA workshops, mentored 15+ juniors  
+- 🏆 Hosted weekly coding contests (yes, with trick questions 😈)  
+- 🌱 Forever learning, forever teaching  
 
 ---
 
-## 📚 Coursework  
-OOP • DSA • DBMS • Operating Systems • Computer Networks  
+## 📚 Current Study Playlist  
+OOP • DSA • DBMS • OS • Networks (aka “the holy pentagon of CS”)  
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 Stats & Trackers  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu--Kanyal&layout=compact&theme=tokyonight)  
 
@@ -70,11 +74,11 @@ OOP • DSA • DBMS • Operating Systems • Computer Networks
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Stalk Me (Productively)  
 [![Email](https://img.shields.io/badge/Email-kanyalpriyanshu1%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kanyalpriyanshu1@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Kanyal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-kanyal-7808a7275)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Priyanshu--Kanyal-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Priyanshu--Kanyal/)  
 
 ---
 
-✨ *“Code for impact, not just for completion.”* ✨  
+✨ *“I don’t just push code, I push possibilities.”* ✨  
