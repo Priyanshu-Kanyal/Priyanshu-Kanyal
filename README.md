@@ -61,10 +61,9 @@ OOP • DSA • DBMS • Operating Systems • Computer Networks
 ---
 
 ## 🌐 Connect With Me  
-## 🌐 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-kanyalpriyanshu1%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kanyalpriyanshu1@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Kanyal-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kanyal-7808a7275)
 
+[![Email](https://img.shields.io/badge/Email-kanyalpriyanshu1%40gmail.com-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanyalpriyanshu1@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Kanyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kanyal-7808a7275)  
 
 ---
 
